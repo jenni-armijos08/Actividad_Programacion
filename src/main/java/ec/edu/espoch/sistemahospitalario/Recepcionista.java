@@ -9,5 +9,15 @@ package ec.edu.espoch.sistemahospitalario;
  * @author PERSONAL
  */
 public class Recepcionista {
-    
+    public String idRecepcionista;
+    public String nombre;
 }
+    public void agendarCitas(int idPacienteidMedico){     
+    }
+    public void registrarPaciente(String paciente ){
+    }
+    public void seguro(int idPacinete){
+    }
+
+
+

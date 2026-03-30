@@ -9,5 +9,16 @@ package ec.edu.espoch.sistemahospitalario;
  * @author PERSONAL
  */
 public class Cita {
-    
+    public int idPaciente;
+    public int idDoctor;
+    public String fechaHora;
+    public String verificarSeguroCita;
+
 }
+   public void verificarCita(Boolean idDoctorfechaHora){
+       
+   }
+   public void confirmaSeguro(Boolean  verificarSeguro ){
+       
+   }
+

@@ -9,5 +9,13 @@ package ec.edu.espoch.sistemahospitalario;
  * @author PERSONAL
  */
 public class Farmacia {
-    
+    public String idReceta;
+    public int idPaciente;
+    public String medicamentos; 
 }
+    public void  verificarMedicamentos(Boolean medicamentos){
+    } 
+    public void entregarMedicamentos(Boolean idReceta){   
+    } 
+
+    

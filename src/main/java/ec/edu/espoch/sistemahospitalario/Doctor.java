@@ -9,5 +9,14 @@ package ec.edu.espoch.sistemahospitalario;
  * @author PERSONAL
  */
 public class Doctor {
-    
+    public String idDoctor;
+    public String nombre;
+    public Boolean  horarioDisponible;   
 }
+   public void   historial(Boolean idPaciente){
+   }
+   public void tratamiento(Boolean idPaciente){
+   }
+   public void revisarResultados(Boolean laboratorios){
+       
+   }

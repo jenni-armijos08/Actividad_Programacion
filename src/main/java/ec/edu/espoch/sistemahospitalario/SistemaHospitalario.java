@@ -8,9 +8,17 @@ package ec.edu.espoch.sistemahospitalario;
  *
  * @author PERSONAL
  */
-public class SistemaHospitalario {
+public class SistemaHospitalario {  
+    
+ }
+   public List citas;
+   public List paciente;
+   public List medicamentos; 
+   public List medicos;
 
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
-    }
+   public void  agendarCitas(Boolean idPaciente){ 
+   }
+
+   public void verificarDisponibilidad(Boolean idDoctor){
+    
 }

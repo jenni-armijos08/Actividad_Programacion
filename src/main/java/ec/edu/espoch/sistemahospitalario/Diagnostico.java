@@ -9,5 +9,12 @@ package ec.edu.espoch.sistemahospitalario;
  * @author PERSONAL
  */
 public class Diagnostico {
+    public int registrarDiagnostico;
+    public String idConsulta;
+    public int idPaciente;
     
 }
+   public void  asignarTratamiento(Boolean medicamentolistaAlergias ){
+   } 
+   public void solicitarResultadoLab(Boolean laboratorio ){
+   }

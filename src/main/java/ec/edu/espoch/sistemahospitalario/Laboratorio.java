@@ -9,5 +9,10 @@ package ec.edu.espoch.sistemahospitalario;
  * @author PERSONAL
  */
 public class Laboratorio {
-    
+    public int idPaciente;
+    public Boolean  nuestraRecolectada;
+    public String resultardo;
+    public Boolean Disponible;
 }
+   public void procesoExamen(Boolean resultado){   
+   }

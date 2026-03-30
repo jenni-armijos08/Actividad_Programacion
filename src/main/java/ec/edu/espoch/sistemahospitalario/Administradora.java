@@ -1,13 +1,13 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package ec.edu.espoch.sistemahospitalario;
 
-/**
- *
- * @author PERSONAL
- */
+package ec.edu.espoch.sistemahospitalario;
 public class Administradora {
+    public int idReportesClinicos;
+    public String nombreAdmi;
+    public String fechaReportes;
+
+
+    public void generarReporte(Boolean datosClinicos){
+    } }
+   
     
-}
+
